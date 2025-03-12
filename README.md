@@ -31,6 +31,7 @@ Siempre estoy abierto a colaborar en proyectos o compartir conocimientos. Si tie
 - [Correo Electrónico](jordisalazarbadia@gmail.com)
 
 ## 🔧 Herramientas y Recursos que Utilizo
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_GITHUB_USER&layout=compact)
 
 - **Editor**: VS Code
 - **Control de versión**: Git y GitHub
