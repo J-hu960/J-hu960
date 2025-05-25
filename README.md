@@ -17,9 +17,9 @@ Implementación de una **key-value store distribuida en memoria**, un "Redis" qu
 
 - **Lenguajes**: Go, TypeScript, Python
 - **Frameworks y Librerías**: Gin, React, NestJS, FastAPI
-- **Bases de datos**: PostgreSQL, MongoDB
+- **Bases de datos**: PostgreSQL, MongoDB, Redis, elasticSearch
 - **Herramientas**: Docker, Kubernetes, GitLab CI/CD
-- **Otros**: Microservicios, gRPC, RabbitMQ, WebSockets
+- **Otros**: Microservicios, gRPC, RabbitMQ, WebSockets, graphQL
 
 ## 💬 ¿Quieres hablar sobre desarrollo de software?
 
