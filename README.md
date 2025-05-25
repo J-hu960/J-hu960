@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jordi Salazar 
 
-Bienvenido a mi espacio en GitHub. Soy un desarrollador apasionado por **la arquitectura de software**, y me encanta crear aplicaciones eficientes, escalables y de alto rendimiento. Actualmente, me enfoco en el desarrollo de **back end** y la integración de LLM's.
+Bienvenido a mi espacio en GitHub. Soy un desarrollador apasionado por **la arquitectura de software**, y me encanta crear aplicaciones eficientes, escalables y de alto rendimiento. Actualmente, me enfoco en el desarrollo de **back end** en golang.
 
 ## 🚀 Proyectos Destacados
 
